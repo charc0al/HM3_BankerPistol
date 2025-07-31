@@ -14,6 +14,7 @@
 			"tooltip": "Adds more blood splatter to the Banker pistol",
 			"group": "Other",
 			"type": "checkbox",
+			"enabledByDefault": true,
 			"contentFolders": ["content/blood"]
 		}
 	]
