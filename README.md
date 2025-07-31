@@ -6,4 +6,4 @@ Banker Pistol, but actually good
 
 ---
 
-`Charc0al.BankerPistolDeluxe` v1.0.0, by Charc0al. This README was automatically generated from the mod's manifest.
+`Charc0al.BankerPistolDeluxe` v1.0.1, by Charc0al. This README was automatically generated from the mod's manifest.

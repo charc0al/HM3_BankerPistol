@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"updateCheck": "https://github.com/charc0al/HM3_BankerPistol/releases/latest/download/updates.json",
 	"id": "Charc0al.BankerPistolDeluxe",
 	"name": "Banker Pistol Deluxe",
@@ -16,6 +16,5 @@
 			"type": "checkbox",
 			"contentFolders": ["content/blood"]
 		}
-	],
-	"updateCheck": "https://github.com/charc0al/HM3_BankerPistol/releases/latest/download/updates.json"
+	]
 }
