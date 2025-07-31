@@ -1,9 +1,19 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Test Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
-	"frameworkVersion": "2.25.1"
+	"id": "Charc0al.BankerPistolDeluxe",
+	"name": "Banker Pistol Deluxe",
+	"description": "Banker Pistol, but actually good",
+	"authors": ["Charc0al"],
+	"frameworkVersion": "2.33.26",
+	"contentFolders": ["content/deluxe"],
+	"options": [
+		{
+			"name": "More Blood",
+			"tooltip": "Adds more blood splatter to the Banker pistol",
+			"group": "Other",
+			"type": "checkbox",
+			"contentFolders": ["content/blood"]
+		}
+	]
 }

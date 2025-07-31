@@ -1,0 +1,53 @@
+{
+    "ec9bca2c-a768-4dd0-9174-fd09067310e5": {
+        "ActorConfiguration": {
+            "AllowPrecisionShot": true,
+            "AllowPrecisionTimeSlowdown": true,
+            "BodyPartModifierArm": 1,
+            "BodyPartModifierTorso": 1,
+            "DamageClose": 75,
+            "DamageFar": 25,
+			"HealthPercentTimeout": 3,
+            "HealthPercentToFall": 0.7,
+            "HitsNumberToFall": 4,
+            "Piercing": true,
+            "RagdollImpactUpKick": 0,
+            "RangeFar": 70,
+            "RangeMedium": 50,
+            "RangeNear": 30
+        },
+        "PrimaryConfiguration": {
+            "AllowPrecisionShot": true,
+            "AllowPrecisionTimeSlowdown": true,
+            "BodyPartModifierArm": 1,
+            "BodyPartModifierTorso": 1,
+            "DamageClose": 75,
+            "DamageFar": 25,
+			"HealthPercentTimeout": 3,
+            "HealthPercentToFall": 0.7,
+            "HitsNumberToFall": 4,
+			"Piercing": true,
+            "RagdollImpactUpKick": 0,
+            "RangeFar": 70,
+            "RangeMedium": 50,
+            "RangeNear": 30
+        },
+		"RagdollImpactUpKick": 0,
+        "SecondaryConfiguration": {
+            "AllowPrecisionShot": true,
+            "AllowPrecisionTimeSlowdown": true,
+			"BodyPartModifierArm": 1,
+            "BodyPartModifierTorso": 1,
+            "DamageClose": 75,
+            "DamageFar": 25,
+            "HealthPercentTimeout": 3,
+            "HealthPercentToFall": 0.7,
+            "HitsNumberToFall": 4,
+            "Piercing": true,
+            "RagdollImpactUpKick": 0,
+            "RangeFar": 70,
+            "RangeMedium": 50,
+            "RangeNear": 30
+        }
+    }
+}
