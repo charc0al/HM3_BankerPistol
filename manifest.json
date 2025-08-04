@@ -16,6 +16,55 @@
 			"type": "checkbox",
 			"enabledByDefault": true,
 			"contentFolders": ["content/blood"]
+		},
+		{
+			"group": "Name Override",
+			"name": "None",
+			"tooltip": "No changes to the name",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Name Override",
+			"name": "Walther P99 Covert",
+			"tooltip": "Change the name to Walther P99 Covert",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "Walther P99 Covert",
+						"1873169790": "Classic black Walther P99 with attached suppressor. 12-round magazine capacity."
+					}
+				}
+			}
+		},
+		{
+			"group": "Name Override",
+			"name": "007 Pistol Silenced",
+			"tooltip": "Change the name to 007 Pistol Silenced",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "007 Pistol Silenced",
+						"1873169790": "James Bond's P99"
+					}
+				}
+			}
+		},
+		{
+			"group": "Name Override",
+			"name": "The Wanker Pistol",
+			"tooltip": "See name",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "The Wanker Pistol",
+						"1873169790": "A P99 pistol for a banker, who is also a wanker."
+					}
+				}
+			}
 		}
 	]
 }
