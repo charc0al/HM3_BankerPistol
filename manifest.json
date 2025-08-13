@@ -18,6 +18,14 @@
 			"contentFolders": ["content/blood"]
 		},
 		{
+			"name": "High Precision",
+			"tooltip": "Makes the Banker Pistol very precise and have no recoil",
+			"group": "Other",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["content/precise"]
+		},
+		{
 			"group": "Name Override",
 			"name": "None",
 			"tooltip": "No changes to the name",

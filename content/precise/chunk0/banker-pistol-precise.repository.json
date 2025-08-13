@@ -1,0 +1,9 @@
+{
+	"ec9bca2c-a768-4dd0-9174-fd09067310e5": {
+		"PrimaryConfiguration": {
+			"PrecisionMaxDegree": 0.01,
+			"PrecisionMinDegree": 0.01,
+			"RecoilMax": 0
+		}
+	}
+}
