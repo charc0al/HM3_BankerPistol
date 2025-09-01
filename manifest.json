@@ -33,6 +33,108 @@
 			"enabledByDefault": true
 		},
 		{
+			"group": "Attachments",
+			"name": "None",
+			"tooltip": "No attachments added",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Attachments",
+			"name": "Extended Mag",
+			"tooltip": "Adds extended mag (+10 rounds) only",
+			"type": "select",
+			"image": "smf/mag.webp",
+			"contentFolders": ["content/model/mag"]
+		},
+		{
+			"group": "Attachments",
+			"name": "Scope Rail",
+			"tooltip": "Adds extended mag and longer barrel",
+			"type": "select",
+			"image": "smf/rail.webp",
+			"contentFolders": ["content/model/rail"]
+		},
+		{
+			"group": "Attachments",
+			"name": "Extended Barrel",
+			"tooltip": "Adds extended barrel only",
+			"type": "select",
+			"image": "smf/barrel.webp",
+			"contentFolders": ["content/model/barrel"]
+		},
+		{
+			"group": "Attachments",
+			"name": "Scope Rail and extended mag (+10 rounds)",
+			"tooltip": "Adds scope rail and extended mag",
+			"type": "select",
+			"image": "smf/magrail.webp",
+			"contentFolders": ["content/model/magrail"]
+		},
+		{
+			"group": "Attachments",
+			"name": "Scope Rail and Extended Barrel",
+			"tooltip": "Adds scope rail and extended barrel",
+			"type": "select",
+			"image": "smf/barrelrail.webp",
+			"contentFolders": ["content/model/barrelrail"]
+		},
+		{
+			"group": "Attachments",
+			"name": "Extended Mag and Barrel",
+			"tooltip": "Adds extended mag (+10 rounds) and longer barrel",
+			"type": "select",
+			"image": "smf/magbarrel.webp",
+			"contentFolders": ["content/model/magbarrel"]
+		},
+		{
+			"group": "Attachments",
+			"name": "Full Kit",
+			"tooltip": "Adds extended mag, scope rail, and extended barrel",
+			"type": "select",
+			"image": "smf/full.webp",
+			"contentFolders": ["content/model/full"]
+		},
+		{
+			"group": "Optic",
+			"name": "None",
+			"tooltip": "No optic added",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Optic",
+			"name": "Holo",
+			"tooltip": "Holographic sight. Needs a rail if you don't want it floating above the pistol",
+			"type": "select",
+			"image": "smf/holo.webp",
+			"contentFolders": ["content/optic/holo"]
+		},
+		{
+			"group": "Optic",
+			"name": "Scope",
+			"tooltip": "Adds a scope to the banker pistol. Needs a rail if you don't want it floating above the pistol",
+			"type": "select",
+			"image": "smf/scope.webp",
+			"contentFolders": ["content/optic/scope"]
+		},
+		{
+			"group": "Optic",
+			"name": "Mini",
+			"tooltip": "Adds a mini red dot to the banker pistol. Needs a rail if you don't want it floating above the pistol",
+			"type": "select",
+			"image": "smf/mini.webp",
+			"contentFolders": ["content/optic/mini"]
+		},
+		{
+			"group": "Optic",
+			"name": "Red dot sight",
+			"tooltip": "Adds a red dot sight to the banker pistol. Needs a rail if you don't want it floating above the pistol",
+			"type": "select",
+			"image": "smf/reddot.webp",
+			"contentFolders": ["content/optic/reddot"]
+		},
+		{
 			"group": "Name Override",
 			"name": "Walther P99 Covert",
 			"tooltip": "Change the name to Walther P99 Covert",
