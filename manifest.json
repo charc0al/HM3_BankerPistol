@@ -1,12 +1,12 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "1.3.0",
+	"version": "2.0.0",
 	"updateCheck": "https://github.com/charc0al/HM3_BankerPistol/releases/latest/download/updates.json",
 	"id": "Charc0al.BankerPistolDeluxe",
 	"name": "Banker Pistol Deluxe",
 	"description": "Banker Pistol, but actually good",
 	"authors": ["Charc0al"],
-	"frameworkVersion": "2.33.26",
+	"frameworkVersion": "2.33.27",
 	"contentFolders": ["content/deluxe"],
 	"options": [
 		{
